@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+
+}
+.cover{
+    border-style: solid;
+    border-radius: 5rem;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(8, 8, 98);
+   
+}
+h3{
+    font-size: 50px;
+    color: white;
+    text-shadow: black 3px;
+   
+}
+button{
+    padding: 3px;
+}
+button:hover{
+    cursor: pointer;
+    
+}
